@@ -1,0 +1,3 @@
+C:\Users\SHARON\Desktop\Lab 2\Debug\Lab 2.exe
+C:\Users\SHARON\Desktop\Lab 2\Debug\Lab 2.pdb
+C:\Users\SHARON\Desktop\Debug\Lab 2.pdb
